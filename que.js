@@ -18,3 +18,7 @@ function Appear() {
         window.location.href = "./ans/ans7.html";
     }
 }
+
+function A() {
+    window.location.href = "./ans/ans1.html";
+}

@@ -11,7 +11,7 @@ function Appear() {
     } else if (luckyNum == 3) {
         window.location.href = "./ans/ans4.html";
     } else if (luckyNum == 4) {
-        window.location.href = "./ans/ans.html";
+        window.location.href = "./ans/ans5.html";
     } else if (luckyNum == 5) {
         window.location.href = "./ans/ans6.html";
     } else if (luckyNum == 6) {
